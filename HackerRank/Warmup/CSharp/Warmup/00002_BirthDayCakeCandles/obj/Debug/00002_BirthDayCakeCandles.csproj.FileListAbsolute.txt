@@ -1,0 +1,7 @@
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00002_BirthDayCakeCandles\bin\Debug\00002_BirthDayCakeCandles.exe.config
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00002_BirthDayCakeCandles\bin\Debug\00002_BirthDayCakeCandles.exe
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00002_BirthDayCakeCandles\bin\Debug\00002_BirthDayCakeCandles.pdb
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00002_BirthDayCakeCandles\obj\Debug\00002_BirthDayCakeCandles.csprojAssemblyReference.cache
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00002_BirthDayCakeCandles\obj\Debug\00002_BirthDayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00002_BirthDayCakeCandles\obj\Debug\00002_BirthDayCakeCandles.exe
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00002_BirthDayCakeCandles\obj\Debug\00002_BirthDayCakeCandles.pdb

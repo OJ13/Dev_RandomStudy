@@ -1,0 +1,7 @@
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00001_MinMax\bin\Debug\00001_MinMax.exe.config
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00001_MinMax\bin\Debug\00001_MinMax.exe
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00001_MinMax\bin\Debug\00001_MinMax.pdb
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00001_MinMax\obj\Debug\00001_MinMax.csprojAssemblyReference.cache
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00001_MinMax\obj\Debug\00001_MinMax.csproj.CoreCompileInputs.cache
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00001_MinMax\obj\Debug\00001_MinMax.exe
+C:\Dev\Estudo\HackerRank\Warmup\CSharp\Warmup\00001_MinMax\obj\Debug\00001_MinMax.pdb
