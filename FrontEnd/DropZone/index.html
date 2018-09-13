@@ -4,13 +4,45 @@
         <meta charset="utf-8">
         <title>DropZone Exercise</title>
         <link rel="stylesheet" href="assets/CSS/dropzone.css">
+        <link rel="stylesheet" href="assets/CSS/dropzone_customize.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
     </head>
     <body>
-            <form action="/file-upload" class="dropzone drop">
-                <div class="fallback">
-                     <input type="file" name="file" multiple class="drop"/>
-                </div>                
-            </form>   
+        <div class="row">
+            <div class="col-xl-4 col-lg-4 col-md-4">
+                <form action="http://localhost:52611/api/dropzone" class="dropzone needsclick dz-clickable drop">
+                    <div class="fallback">
+                        <input type="file" name="file" id="file" multiple class="drop"/>
+                    </div>                
+                </form>   
+                <button type="submit" id="btnEnviarDoc" class="drop">Enviar Documento</button>
+            </div>
+        </div>
         <script src="assets/JS/dropzone.js"></script>
+        <script src="assets/JS/app.js"></script>
     </body>
 </html>
+<!-- <!DOCTYPE html>
+
+<meta charset="utf-8">
+
+<title>Dropzone simple example</title>
+
+
+<!--
+  DO NOT SIMPLY COPY THOSE LINES. Download the JS and CSS files from the
+  latest release (https://github.com/enyo/dropzone/releases/latest), and
+  host them yourself!
+-->
+<!-- <script src="https://rawgit.com/enyo/dropzone/master/dist/dropzone.js"></script>
+<link rel="stylesheet" href="https://rawgit.com/enyo/dropzone/master/dist/dropzone.css">
+
+
+<p>
+  This is the most minimal example of Dropzone. The upload in this example
+  doesn't work, because there is no actual server to handle the file upload.
+</p>
+
+<!-- Change /upload-target to your upload address -->
+<!-- <form action="/upload-target" class="dropzone"></form> -->
